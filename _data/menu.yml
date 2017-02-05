@@ -1,0 +1,12 @@
+- title: "CV"
+  href: "/cv/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "Econ 103: Statistics for Economists"
+      subhref: "/teaching/econ-103/"
+
