@@ -15,13 +15,26 @@ Your grades are posted on [Canvas](https://canvas.upenn.edu/). If you have quest
 
 - [Chapter 1]
 
-## R tutorial
- 
+## Homeworks:
+
+- [Homework 1]
+
+
+The following materials are generously provided by [Frank DiTraglia](http://ditraglia.com/)
+
+## R tutorial: 
+
 - [R tutorial 1](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial1.html)
 
-## Practice Exams:
+- [R tutorial 2](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial2.html)
 
-Generously provided by [Frank DiTraglia](http://ditraglia.com/)
+- [R tutorial 3](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial3.html)
+
+- [R tutorial 4](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial4.html)
+
+- [R tutorial 5](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial5.html)
+
+## Practice Exams:
 
 ### Midterm 1
 
@@ -54,6 +67,4 @@ Generously provided by [Frank DiTraglia](http://ditraglia.com/)
 *   [Fall 2014](https://docs.google.com/viewer?url=https://github.com/emallickhossain/Econ103Public/raw/master/PracticeExams/final_2014_12_16.pdf "final_2014_12_16") [[Solutions](https://docs.google.com/viewer?url=https://github.com/emallickhossain/Econ103Public/raw/master/PracticeExams/final_2014_12_16_solutions.pdf "final_2014_12_16_solutions")]
 *   [Spring 2015](https://docs.google.com/viewer?url=https://github.com/emallickhossain/Econ103Public/raw/master/PracticeExams/final_2015_05_04.pdf "final_2015_05_04") [[Solutions](https://docs.google.com/viewer?url=https://github.com/emallickhossain/Econ103Public/raw/master/PracticeExams/final_2015_05_04_solutions.pdf "final_2015_05_04_solutions")]
 *   [Fall 2015](https://docs.google.com/viewer?url=https://github.com/emallickhossain/Econ103Public/raw/master/PracticeExams/final_2015_12_11.pdf "final_2015_12_11") [[Solutions](https://docs.google.com/viewer?url=https://github.com/emallickhossain/Econ103Public/raw/master/PracticeExams/final_2015_12_11_solutions.pdf "final_2015_12_11_solutions")]
-
-## Homework:
 
