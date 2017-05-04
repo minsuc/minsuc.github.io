@@ -13,25 +13,20 @@ Your grades are posted on [Canvas](https://canvas.upenn.edu/). If you have quest
 
 ## Lectures:
 
-- [Chapter 1]
+- [Chapter 1](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture01.pdf)
 
 ## Homeworks:
 
 - [Homework 1]
-
 
 The following materials are generously provided by [Frank DiTraglia](http://ditraglia.com/)
 
 ## R tutorial: 
 
 - [R tutorial 1](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial1.html)
-
 - [R tutorial 2](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial2.html)
-
 - [R tutorial 3](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial3.html)
-
 - [R tutorial 4](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial4.html)
-
 - [R tutorial 5](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial5.html)
 
 ## Practice Exams:
