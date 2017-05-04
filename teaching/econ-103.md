@@ -15,6 +15,10 @@ Your grades are posted on [Canvas](https://canvas.upenn.edu/). If you have quest
 
 - [Chapter 1]
 
+## R tutorial
+ 
+- [R tutorial 1](http://ditraglia.com/Econ103Public/Rtutorials/Rtutorial1.html)
+
 ## Practice Exams:
 
 Generously provided by [Frank DiTraglia](http://ditraglia.com/)
