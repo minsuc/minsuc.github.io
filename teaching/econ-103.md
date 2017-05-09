@@ -18,6 +18,7 @@ Your grades are posted on [Canvas](https://canvas.upenn.edu/). If you have quest
 - [Chapter 3](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture03.pdf)
 - [Chapter 4](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture04.pdf)
 - [Chapter 5](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture05.pdf)
+- [Chapter 6](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture06.pdf)
 
 ## Homeworks:
 
