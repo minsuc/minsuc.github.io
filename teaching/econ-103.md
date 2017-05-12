@@ -29,6 +29,15 @@ Your grades are posted on [Canvas](https://canvas.upenn.edu/). If you have quest
 - [Chapter 14](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture14.pdf)
 - [Chapter 15](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture15.pdf)
 - [Chapter 16](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture16.pdf)
+- [Chapter 17](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture17.pdf)
+- [Chapter 18](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture18.pdf)
+- [Chapter 19](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture19.pdf)
+- [Chapter 20](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture20.pdf)
+- [Chapter 21](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture21.pdf)
+- [Chapter 22](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture22.pdf)
+- [Chapter 23](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture23.pdf)
+- [Chapter 24](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture24.pdf)
+
 
 ## Homeworks:
 
