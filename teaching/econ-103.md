@@ -3,10 +3,6 @@ layout: page
 title: Econ 103
 ---
   
-## Grades and Questions:
-
-Your grades are posted on [Canvas](https://canvas.upenn.edu/). If you have questions, post them on [Piazza](http://piazza.com). My office hours are... If you need to make an appointment, just email me.
-
 ## Course Documents:
 
 - [Syllabus](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/syllabus.pdf) 
@@ -36,12 +32,23 @@ Your grades are posted on [Canvas](https://canvas.upenn.edu/). If you have quest
 - [Chapter 21](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture21.pdf)
 - [Chapter 22](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture22.pdf)
 - [Chapter 23](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture23.pdf)
-- [Chapter 24](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture24.pdf)
 
 
 ## Homeworks:
 
-- [Homework 1]
+- [Homework 1](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week1_soln.pdf)
+- [Homework 2](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week2_soln.pdf)
+- [Homework 3](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week3_soln.pdf)
+- [Homework 4](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week4_soln.pdf)
+- [Homework 5](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week5_soln.pdf)
+- [Extra Credit](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/Extra_Credit.pdf)
+
+
+## Exams:
+
+- [Midterm](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/exams/Midterm_Soln.pdf)
+- [Final](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/exams/Final_soln.pdf)
+
 
 The following materials are generously provided by [Frank DiTraglia](http://ditraglia.com/)
 
