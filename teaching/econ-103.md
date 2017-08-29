@@ -6,6 +6,7 @@ title: Econ 103
 ## Course Documents:
 
 - [Syllabus](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/syllabus.pdf) 
+- [Evaluation 1](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/eval2017.pdf), [Evaluation 2](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/eval2017_written.pdf) 
 
 ## Lectures:
 
@@ -33,7 +34,6 @@ title: Econ 103
 - [Chapter 22](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture22.pdf)
 - [Chapter 23](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/slides/lecture23.pdf)
 
-
 ## Homeworks:
 
 - [Homework 1](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week1_soln.pdf)
@@ -42,7 +42,6 @@ title: Econ 103
 - [Homework 4](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week4_soln.pdf)
 - [Homework 5](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/HW_week5_soln.pdf)
 - [Extra Credit](https://docs.google.com/viewer?url=https://github.com/minsuc/Econ103_LPS/raw/master/homeworks/Extra_Credit.pdf)
-
 
 ## Exams:
 
