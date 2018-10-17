@@ -16,11 +16,11 @@ permalink: /research/
 
 ## Working Papers
 
-“Marriage, Home Ownership and Portfolio Share” (Job Market Paper)
+“House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions” (Job Market Paper)
 
-“Does Heterogeneity Matter for Aggregate Fluctuations?” with Xiaohong Chen and Frank Schorfheide
+“Heterogeneity and Aggregate Fluctuations,” with Xiaohong Chen and Frank Schorfheide
 
-“Lifting the Curse of Dimensionality with a Mixture Approximation: Feasible Multivariate Density Estimation,” with Paul Sangrey 
+“Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation,” with Paul Sangrey 
 
 ## Work in Progress
 
