@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Publications
 
-“[A Generalized Focused Information Criterion for GMM with Applications to Panel Data Models](http://ditraglia.com/pdf/GFIC_paper.pdf),” with Francis J. DiTraglia, Journal of Applied Econometrics, 2018, 33 (3), pp. 378-397.
+“[A Generalized Focused Information Criterion for GMM with Applications to Panel Data Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2614),” with Francis J. DiTraglia, Journal of Applied Econometrics, 2018, 33 (3), pp. 378-397.
 
 "[Nonparametric Tests of Conditional Treatment Effects with an Application to Single-Sex Schooling on Academic Achievements](http://onlinelibrary.wiley.com/doi/10.1111/ectj.12050/abstract)," with Sokbae (Simon) Lee and Yoon-Jae Whang, The Econometrics Journal, 2015, 18 (3), pp. 307-346.
 
