@@ -16,11 +16,11 @@ permalink: /research/
 
 ## Working Papers
 
-“House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions” (Job Market Paper)
+“[House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://economics.sas.upenn.edu/system/files/2018-11/JMP_MinsuChang.pdf)” (Job Market Paper)
 
-“Heterogeneity and Aggregate Fluctuations,” with Xiaohong Chen and Frank Schorfheide
+“[Heterogeneity and Aggregate Fluctuations](https://economics.sas.upenn.edu/system/files/2018-11/EvalHAmodels_v3_web.pdf),” with Xiaohong Chen and Frank Schorfheide
 
-“Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation,” with Paul Sangrey 
+“[Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation](https://economics.sas.upenn.edu/system/files/2018-11/feasible_multivariate_density_estimation_0.pdf),” with Paul Sangrey 
 
 ## Work in Progress
 
