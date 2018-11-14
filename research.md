@@ -16,7 +16,7 @@ permalink: /research/
 
 ## Working Papers
 
-“[House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://economics.sas.upenn.edu/system/files/2018-11/JMP_MinsuChang.pdf)” (Job Market Paper)
+“[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://economics.sas.upenn.edu/system/files/2018-11/JMP_MinsuChang.pdf)” (Job Market Paper)
 
 “[Heterogeneity and Aggregate Fluctuations](https://economics.sas.upenn.edu/system/files/2018-11/EvalHAmodels_v3_web.pdf),” with Xiaohong Chen and Frank Schorfheide
 
