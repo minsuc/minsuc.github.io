@@ -16,12 +16,9 @@ permalink: /research/
 
 ## Working Papers
 
-“[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://economics.sas.upenn.edu/system/files/2018-11/JMP_MinsuChang.pdf)” (Job Market Paper)
+“[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://github.com/minsuc/minsuc_web/raw/master/papers/Submission_MChang.pdf)” 
 
-“[Heterogeneity and Aggregate Fluctuations](https://economics.sas.upenn.edu/system/files/2018-11/EvalHAmodels_v3_web.pdf),” with Xiaohong Chen and Frank Schorfheide
+“[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/minsuc_web/raw/master/papers/EvalHAmodels_v3_web.pdf),” with Xiaohong Chen and Frank Schorfheide
 
-“[Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation](https://economics.sas.upenn.edu/system/files/2018-11/feasible_multivariate_density_estimation_0.pdf),” with Paul Sangrey 
+“[Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation](https://github.com/minsuc/minsuc_web/raw/master/papers/feasible_multivariate_density_estimation.pdf),” with Paul Sangrey 
 
-## Work in Progress
-
-“Estimating Heterogeneous Agent Models: A Likelihood Approach with Particle Filter"
