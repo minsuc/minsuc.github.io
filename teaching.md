@@ -8,4 +8,8 @@ This page serves as a directory for the courses I have taught, which is freely a
 
 ## University of Pennsylvania
 
-1. [ECON 103](/teaching/econ-103/) (Statistics for Economists)
+1. [ECON 103](/teaching/econ-103/) (Statistics for Economists, Undergraduate)
+
+## Georgetown University
+
+1. ECON 609 (Computation of Dynamic Models with Applications, Ph.D.) [Syllabus](https://github.com/minsuc/Econ103_LPS/raw/master/syllabus_econ609.pdf).
