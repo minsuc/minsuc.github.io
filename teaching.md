@@ -13,3 +13,5 @@ This page serves as a directory for the courses I have taught, which is freely a
 ## Georgetown University
 
 1. ECON 609 (Computation of Dynamic Models with Applications, Ph.D.) [Syllabus](https://github.com/minsuc/Econ103_LPS/raw/master/syllabus_econ609.pdf).
+
+2. ECON 102 (Intermediate Macroeconomics, Undergraduate) [Syllabus](https://github.com/minsuc/Econ103_LPS/raw/master/syllabus_econ102.pdf).
