@@ -20,5 +20,5 @@ permalink: /research/
 
 “[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v3_web.pdf),” with Xiaohong Chen and Frank Schorfheide
 
-“[Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/feasible_multivariate_density_estimation.pdf),” with Paul Sangrey 
+“[Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/ChangSangrey_web.pdf),” with Paul Sangrey 
 
