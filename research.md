@@ -16,9 +16,11 @@ permalink: /research/
 
 ## Working Papers
 
-“[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Submission_MChang.pdf)” 
+“[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Submission_MChang.pdf),” Revision requested. 
 
-“[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v3_web.pdf),” with Xiaohong Chen and Frank Schorfheide
+“[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v6_pub.pdf),” with Xiaohong Chen and Frank Schorfheide
+Julia replication files (2021-05-14) via [Dropbox Link](https://www.dropbox.com/s/psys75jdqbne55p/Heterogeneity%20Replication%20Files.zip?dl=0)
+Also available as CEPR Discussion Paper 16183 and NBER Working Paper 28853
 
 “[Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_March2021.pdf),” with Ami Ko
 
