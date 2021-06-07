@@ -10,16 +10,16 @@ permalink: /research/
 
 ## Publications
 
-“[A Generalized Focused Information Criterion for GMM with Applications to Panel Data Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2614),” with Francis J. DiTraglia, Journal of Applied Econometrics, 2018, 33 (3), pp. 378-397.
+“[A Generalized Focused Information Criterion for GMM with Applications to Panel Data Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2614),” with Francis J. DiTraglia, <i>Journal of Applied Econometrics</i>, 2018, 33 (3), pp. 378-397.
 
-"[Nonparametric Tests of Conditional Treatment Effects with an Application to Single-Sex Schooling on Academic Achievements](http://onlinelibrary.wiley.com/doi/10.1111/ectj.12050/abstract)," with Sokbae (Simon) Lee and Yoon-Jae Whang, The Econometrics Journal, 2015, 18 (3), pp. 307-346.
+"[Nonparametric Tests of Conditional Treatment Effects with an Application to Single-Sex Schooling on Academic Achievements](http://onlinelibrary.wiley.com/doi/10.1111/ectj.12050/abstract)," with Sokbae (Simon) Lee and Yoon-Jae Whang, <i>The Econometrics Journal</i>, 2015, 18 (3), pp. 307-346.
 
 ## Working Papers
 
-“[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Submission_MChang.pdf),” Revision requested. 
+“[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Submission_MChang.pdf),” <i>Revision requested</i>. 
 
-“[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v6_pub.pdf),” with Xiaohong Chen and Frank Schorfheide
-Julia replication files (2021-05-14) via [Dropbox Link](https://www.dropbox.com/s/psys75jdqbne55p/Heterogeneity%20Replication%20Files.zip?dl=0)
+“[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v6_pub.pdf),” with Xiaohong Chen and Frank Schorfheide<br>
+Julia replication files (2021-05-14) via [Dropbox Link](https://www.dropbox.com/s/psys75jdqbne55p/Heterogeneity%20Replication%20Files.zip?dl=0)<br>
 Also available as CEPR Discussion Paper 16183 and NBER Working Paper 28853
 
 “[Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_March2021.pdf),” with Ami Ko
