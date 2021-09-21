@@ -10,9 +10,9 @@ permalink: /research/
 
 ## Publications
 
-“[A Generalized Focused Information Criterion for GMM with Applications to Panel Data Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2614),” with <a href="https://ditraglia.com" style="color:#FF0000;">Francis J. DiTraglia</a>, <i>Journal of Applied Econometrics</i>, 2018, 33 (3), pp. 378-397.
+“[A Generalized Focused Information Criterion for GMM with Applications to Panel Data Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2614),” with <a href="https://ditraglia.com" style="color:#000000;">Francis J. DiTraglia</a>, <i><b>Journal of Applied Econometrics</b></i>, 2018, 33 (3), pp. 378-397.
 
-"[Nonparametric Tests of Conditional Treatment Effects with an Application to Single-Sex Schooling on Academic Achievements](http://onlinelibrary.wiley.com/doi/10.1111/ectj.12050/abstract)," with [Sokbae (Simon) Lee](https://sites.google.com/site/sokbae/) and [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/), <i>The Econometrics Journal</i>, 2015, 18 (3), pp. 307-346.
+"[Nonparametric Tests of Conditional Treatment Effects with an Application to Single-Sex Schooling on Academic Achievements](http://onlinelibrary.wiley.com/doi/10.1111/ectj.12050/abstract)," with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokbae (Simon) Lee</a> and <a href="https://sites.google.com/site/whangyjhomepage/" style="color:#000000;">Yoon-Jae Whang</a>, <i>The Econometrics Journal</i>, 2015, 18 (3), pp. 307-346.
 
 ## Working Papers
 
