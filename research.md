@@ -28,6 +28,9 @@ with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000
 Julia replication files (2021-05-14) via [Dropbox Link](https://www.dropbox.com/s/psys75jdqbne55p/Heterogeneity%20Replication%20Files.zip?dl=0)<br>
 Also available as CEPR Discussion Paper 16183 and NBER Working Paper 28853
 
+[Earning Heterogeneity and Monetary Policy Shocks](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v1.pdf)<br>
+with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
+
 [Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_March2021.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a>
 
