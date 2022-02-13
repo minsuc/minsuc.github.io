@@ -29,7 +29,7 @@ Julia replication files (2021-05-14) via [Dropbox Link](https://www.dropbox.com/
 Also available as CEPR Discussion Paper 16183 and NBER Working Paper 28853<br>
 <i>Revision requested</i>.
 
-[Earnings Heterogeneity and Monetary Policy Shocks](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v1.pdf)<br>
+[On the Effects of Monetary Policy Shocks on Earnings and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v4.pdf)<br>
 with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
 
 [Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_March2021.pdf)<br> 
