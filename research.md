@@ -40,7 +40,7 @@ with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">C
 
 [Feasible Multivariate Density Estimation Using Random Compression](https://github.com/minsuc/Econ103_LPS/raw/master/papers/ChangSangrey_web.pdf)<br> 
 with <a href="https://sangrey.io/" style="color:#000000;">Paul Sangrey</a><br>
-(Previously circulated as "Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation") 
+(Previously circulated as "Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation")<br>
 Reject and resubmit at <i>Royal Statistical Society: Series B</i> 
 
 
