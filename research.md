@@ -27,7 +27,7 @@ Revise and resubmit at <i>Review of Economic Dynamics</i>
 with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
 Julia replication files (2021-05-14) via [Dropbox Link](https://www.dropbox.com/s/psys75jdqbne55p/Heterogeneity%20Replication%20Files.zip?dl=0)<br>
 Also available as CEPR Discussion Paper 16183 and NBER Working Paper 28853<br>
-Revise and resubmit at <i>Journal of Political Economy</i>.
+Revise and resubmit at <i>Journal of Political Economy</i>
 
 [On the Effects of Monetary Policy Shocks on Earnings and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v4.pdf)<br>
 with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
@@ -41,4 +41,6 @@ with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">C
 [Feasible Multivariate Density Estimation Using Random Compression](https://github.com/minsuc/Econ103_LPS/raw/master/papers/ChangSangrey_web.pdf)<br> 
 with <a href="https://sangrey.io/" style="color:#000000;">Paul Sangrey</a><br>
 (Previously circulated as "Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation") 
+Reject and resubmit at <i>Royal Statistical Society: Series B</i> 
+
 
