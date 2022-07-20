@@ -38,6 +38,9 @@ with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a>
 [When in Doubt, Tax More Progressively: Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
 with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a>
 
+[Public Infrastructure Investment and Corporate Taxations](https://hanbaeklee.github.io/Webpage/Chang_Lee_2022.pdf)<br> 
+with <a href="https://sites.google.com/sas.upenn.edu/hanbaeklee" style="color:#000000;">Hanbaek Lee</a>
+
 [Feasible Multivariate Density Estimation Using Random Compression](https://github.com/minsuc/Econ103_LPS/raw/master/papers/ChangSangrey_web.pdf)<br> 
 with <a href="https://sangrey.io/" style="color:#000000;">Paul Sangrey</a><br>
 (Previously circulated as "Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation")<br>
