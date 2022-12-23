@@ -35,10 +35,10 @@ with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Sc
 [Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_08262022.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a>
 
-[When in Doubt, Tax More Progressively: Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
+[When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
 with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a>
 
-[Public Infrastructure Investment and Corporate Taxations](https://hanbaeklee.github.io/Webpage/Chang_Lee_2022.pdf)<br> 
+[Infrastructure Fiscal Multiplier and Corporate Taxations](https://hanbaeklee.github.io/Webpage/Chang_Lee_2022.pdf)<br> 
 with <a href="https://sites.google.com/sas.upenn.edu/hanbaeklee" style="color:#000000;">Hanbaek Lee</a>
 
 [Feasible Multivariate Density Estimation Using Random Compression](https://github.com/minsuc/Econ103_LPS/raw/master/papers/ChangSangrey_web.pdf)<br> 
