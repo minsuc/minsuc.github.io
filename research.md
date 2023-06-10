@@ -20,7 +20,7 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 
 ## Working Papers
 
-[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://github.com/minsuc/Econ103_LPS/raw/master/papers/RED_Manuscript_Chang.pdf)<br> 
+[A House Without a Ring: The Role of Changing Marital Transitions for Housing Decisions](https://github.com/minsuc/Econ103_LPS/raw/master/papers/RED2nd_Manuscript_Chang.pdf)<br> 
 Revise and resubmit at <i>Review of Economic Dynamics</i> 
 
 [Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v12.pdf)<br> 
