@@ -21,7 +21,7 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 ## Working Papers
 
 [Changing Marital Transitions and Homeownership Among Young Households](https://github.com/minsuc/Econ103_LPS/raw/master/papers/RED2nd_Manuscript_Chang.pdf)<br> 
-Revise and resubmit at <i>Review of Economic Dynamics</i> 
+Conditionally accepted at <i>Review of Economic Dynamics</i> 
 
 [Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v12.pdf)<br> 
 with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
