@@ -20,7 +20,7 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 
 ## Working Papers
 
-[Changing Marital Transitions and Homeownership Among Young Households](https://github.com/minsuc/Econ103_LPS/raw/master/papers/RED2nd_Manuscript_Chang.pdf)<br> 
+[Changing Marital Transitions and Homeownership Among Young Households](https://github.com/minsuc/Econ103_LPS/raw/master/papers/RED_Chang_Oct2023.pdf)<br> 
 Conditionally accepted at <i>Review of Economic Dynamics</i> 
 
 [Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v12.pdf)<br> 
