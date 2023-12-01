@@ -11,7 +11,7 @@ permalink: /research/
 ## Publications
 
 [Changing Marital Transitions and Homeownership Among Young Households](https://github.com/minsuc/Econ103_LPS/raw/master/papers/RED_Chang_Oct2023.pdf)<br> 
-Accepted at <i>Review of Economic Dynamics</i> 
+Accepted at <i>Review of Economic Dynamics</i>, 2023
 
 [A Generalized Focused Information Criterion for GMM with Applications to Panel Data Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2614)<br>
 with <a href="https://ditraglia.com" style="color:#000000;">Francis J. DiTraglia</a><br>
@@ -23,7 +23,7 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 
 ## Working Papers
 
-[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v12.pdf)<br> 
+[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v15.pdf)<br> 
 with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
 Alpha estimation and density conversion (2023-05-21) via [Dropbox Link](https://www.dropbox.com/s/nqlz3g6p9fr5evs/Alpha%20Estimation%20and%20Conversion_v20230521.zip?dl=0)<br> 
 Julia replication files (2022-10-17) via [Dropbox Link](https://www.dropbox.com/s/lbvq0gvyqd98wv7/Replication_v20221017.zip?dl=0)<br>
