@@ -39,7 +39,7 @@ with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a>
 [When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
 with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a>
 
-[Bridging Firm-Level and State-Level Input Elasticities: The Fiscal Multiplier of Infrastructure Investment](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Draft_ChangLee_June2023.pdf)<br> 
+[Bridging Micro and Macro Production Functions: The Fiscal Multiplier of Infrastructure Investment](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Draft_ChangLee_2023.pdf)<br> 
 with <a href="https://sites.google.com/sas.upenn.edu/hanbaeklee" style="color:#000000;">Hanbaek Lee</a>
 
 [Feasible Multivariate Density Estimation Using Random Compression](https://github.com/minsuc/Econ103_LPS/raw/master/papers/ChangSangrey_web.pdf)<br> 
