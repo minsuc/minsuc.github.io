@@ -10,6 +10,12 @@ permalink: /research/
 
 ## Publications
 
+[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v15.pdf)<br> 
+with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
+Alpha estimation and density conversion (2023-05-21) via [Dropbox Link](https://www.dropbox.com/s/nqlz3g6p9fr5evs/Alpha%20Estimation%20and%20Conversion_v20230521.zip?dl=0)<br> 
+Julia replication files (2022-10-17) via [Dropbox Link](https://www.dropbox.com/s/lbvq0gvyqd98wv7/Replication_v20221017.zip?dl=0)<br>
+Accepted at <i>Journal of Political Economy</i>, 2024
+
 [Changing Marital Transitions and Homeownership Among Young Households](https://github.com/minsuc/Econ103_LPS/raw/master/papers/RED_Chang_Oct2023.pdf)<br> 
 Accepted at <i>Review of Economic Dynamics</i>, 2023
 
@@ -22,13 +28,6 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 <i>The Econometrics Journal</i>, 2015, 18 (3), pp. 307-346.
 
 ## Working Papers
-
-[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v15.pdf)<br> 
-with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
-Alpha estimation and density conversion (2023-05-21) via [Dropbox Link](https://www.dropbox.com/s/nqlz3g6p9fr5evs/Alpha%20Estimation%20and%20Conversion_v20230521.zip?dl=0)<br> 
-Julia replication files (2022-10-17) via [Dropbox Link](https://www.dropbox.com/s/lbvq0gvyqd98wv7/Replication_v20221017.zip?dl=0)<br>
-Also available as CEPR Discussion Paper 16183 and NBER Working Paper 28853<br>
-Revise and resubmit at <i>Journal of Political Economy</i>
 
 [On the Effects of Monetary Policy Shocks on Earnings and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v4.pdf)<br>
 with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
