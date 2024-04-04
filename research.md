@@ -34,7 +34,7 @@ with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Sc
 Julia replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)
 
 [Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_08282023.pdf)<br> 
-with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a>
+with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a><br>
 Revise and Resubmit at <b><i>Quantitative Economics</i></b>
 
 [When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
