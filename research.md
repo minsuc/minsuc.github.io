@@ -35,6 +35,7 @@ Julia replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/
 
 [Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_08282023.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a>
+Revise and Resubmit at <b><i>Quantitative Economics</i></b>
 
 [When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
 with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
