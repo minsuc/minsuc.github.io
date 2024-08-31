@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Minsu Chang
-email: minsu.chang@georgetown.edu
-office: Office 553
-address: 37th St NW & O St NW
-city: Washington, DC 20007
+email: minsuchang@snu.ac.kr
+office: Department of Economics
+address: Gwanak-ro 1, Gwanak-gu
+city: Seoul 08826, Republic of Korea
 github_username: 
 linkedin_username:   
 twitter_username:    
-tagline: 'Assistant Professor in Economics | Georgetown University'
+tagline: 'Assistant Professor of Economics | Seoul National University'
 description: 'My personal website with my research and teaching materials.'
 baseurl:             ''
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
