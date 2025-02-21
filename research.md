@@ -42,8 +42,9 @@ R&R at <b><i>Quantitative Economics</i></b>
 with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
 R&R at <b><i>International Economic Review</i></b>
 
-[Bridging Micro and Macro Production Functions: The Fiscal Multiplier of Infrastructure Investment](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Draft_ChangLee_2023.pdf)<br> 
+[Bridging Micro and Macro Production Functions: The Fiscal Multiplier of Infrastructure Investment](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Draft_CL.pdf)<br> 
 with <a href="https://sites.google.com/sas.upenn.edu/hanbaeklee" style="color:#000000;">Hanbaek Lee</a><br>
+[Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Appendix_CL.pdf)<br>
 R&R at <b><i>Journal of Monetary Economics</i></b>
 
 ## Dormant Papers
