@@ -13,7 +13,7 @@ permalink: /research/
 [Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v15.pdf)<br> 
 with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
 Alpha estimation and density conversion (2023-05-21) via [Dropbox Link](https://www.dropbox.com/s/nqlz3g6p9fr5evs/Alpha%20Estimation%20and%20Conversion_v20230521.zip?dl=0)<br> 
-Julia replication files (2022-10-17) via [Dropbox Link](https://www.dropbox.com/s/lbvq0gvyqd98wv7/Replication_v20221017.zip?dl=0)<br>
+Replication files (2022-10-17) via [Dropbox Link](https://www.dropbox.com/s/lbvq0gvyqd98wv7/Replication_v20221017.zip?dl=0)<br>
 <b><i>Journal of Political Economy</i></b>, 2024, forthcoming.
 
 [Changing Marital Transitions and Homeownership Among Young Households](https://www.sciencedirect.com/science/article/abs/pii/S1094202523000716)<br> 
@@ -31,7 +31,7 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 
 [On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v11.pdf)<br>
 with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
-Julia replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)<br>
+Replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)<br>
 R&R at <b><i>American Economic Journal: Macroeconomics</i></b>
 
 [Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_08282023.pdf)<br> 
