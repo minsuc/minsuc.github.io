@@ -10,10 +10,6 @@ permalink: /research/
 
 ## Publications
 
-[When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
-with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
-Accepted at <b><i>International Economic Review</i></b>, 2025.
-
 [Heterogeneity and Aggregate Fluctuations](https://www.journals.uchicago.edu/doi/10.1086/731411)<br> 
 with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
 Alpha estimation and density conversion (2023-05-21) via [Dropbox Link](https://www.dropbox.com/s/nqlz3g6p9fr5evs/Alpha%20Estimation%20and%20Conversion_v20230521.zip?dl=0)<br> 
@@ -46,6 +42,11 @@ R&R at <b><i>Quantitative Economics</i></b>
 with <a href="https://sites.google.com/sas.upenn.edu/hanbaeklee" style="color:#000000;">Hanbaek Lee</a><br>
 [Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Appendix_CL.pdf)<br>
 R&R at <b><i>Journal of Monetary Economics</i></b>
+
+[When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
+with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
+R&R at <b><i>International Economic Review</i></b>
+
 
 ## Dormant Papers
 
