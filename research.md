@@ -10,11 +10,15 @@ permalink: /research/
 
 ## Publications
 
-[Heterogeneity and Aggregate Fluctuations](https://github.com/minsuc/Econ103_LPS/raw/master/papers/EvalHAmodels_v15.pdf)<br> 
+[When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
+with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
+Accepted at <b><i>International Economic Review</i></b>, 2025.
+
+[Heterogeneity and Aggregate Fluctuations](https://www.journals.uchicago.edu/doi/10.1086/731411)<br> 
 with <a href="https://sites.google.com/site/xiaohongchenyale/" style="color:#000000;">Xiaohong Chen</a> and <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
 Alpha estimation and density conversion (2023-05-21) via [Dropbox Link](https://www.dropbox.com/s/nqlz3g6p9fr5evs/Alpha%20Estimation%20and%20Conversion_v20230521.zip?dl=0)<br> 
 Replication files (2022-10-17) via [Dropbox Link](https://www.dropbox.com/s/lbvq0gvyqd98wv7/Replication_v20221017.zip?dl=0)<br>
-<b><i>Journal of Political Economy</i></b>, 2024, forthcoming.
+<b><i>Journal of Political Economy</i></b>, 2024, 132 (12), pp. 4021-4067.
 
 [Changing Marital Transitions and Homeownership Among Young Households](https://www.sciencedirect.com/science/article/abs/pii/S1094202523000716)<br> 
 <b><i>Review of Economic Dynamics</i></b>, 2024, 52, pp. 46-63.
@@ -37,10 +41,6 @@ R&R at <b><i>American Economic Journal: Macroeconomics</i></b>
 [Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_08282023.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a><br>
 R&R at <b><i>Quantitative Economics</i></b>
-
-[When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
-with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
-R&R at <b><i>International Economic Review</i></b>
 
 [Bridging Micro and Macro Production Functions: The Fiscal Multiplier of Infrastructure Investment](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Draft_CL.pdf)<br> 
 with <a href="https://sites.google.com/sas.upenn.edu/hanbaeklee" style="color:#000000;">Hanbaek Lee</a><br>
