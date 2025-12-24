@@ -38,7 +38,7 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 
 ## Working Papers
 
-[On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v17.pdf)<br>
+[On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v16.pdf)<br>
 with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
 Replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)<br>
 R&R at <b><i>American Economic Journal: Macroeconomics</i></b>
