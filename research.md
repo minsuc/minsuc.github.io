@@ -43,8 +43,9 @@ with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Sc
 Replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)<br>
 R&R at <b><i>American Economic Journal: Macroeconomics</i></b>
 
-[Marital Transitions, Housing, and Savings in Old Age](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_08282023.pdf)<br> 
+[Intrahousehold Inequality and Savings in Retirement](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_01122026.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a><br>
+Previously under the title "Marital Transitions, Housing, and Long-Term Care in Old Age"<br>
 R&R at <b><i>Quantitative Economics</i></b>
 
 
