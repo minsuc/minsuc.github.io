@@ -10,13 +10,13 @@ permalink: /research/
 
 ## Publications
 
-[When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/master/papers/OTUP.pdf)<br> 
+[When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/main/papers/OTUP.pdf)<br> 
 with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
 Accepted at <b><i>International Economic Review</i></b>
 
-[Bridging Micro and Macro Production Functions: The Fiscal Multiplier of Infrastructure Investment](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Draft_CL.pdf)<br> 
+[Bridging Micro and Macro Production Functions: The Fiscal Multiplier of Infrastructure Investment](https://github.com/minsuc/Econ103_LPS/raw/main/papers/Draft_CL.pdf)<br> 
 with <a href="https://sites.google.com/sas.upenn.edu/hanbaeklee" style="color:#000000;">Hanbaek Lee</a><br>
-[Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Appendix_CL.pdf)<br>
+[Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/master/main/Appendix_CL.pdf)<br>
 <b><i>Journal of Monetary Economics</i></b>, 2026, 157.
 
 [Heterogeneity and Aggregate Fluctuations](https://www.journals.uchicago.edu/doi/10.1086/731411)<br> 
@@ -38,13 +38,13 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 
 ## Working Papers
 
-[On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v21_paper.pdf)<br>
+[On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/main/papers/HH_Het_MP_v21_paper.pdf)<br>
 with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
-[Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/master/papers/HH_Het_MP_v21_appendix.pdf)<br>
+[Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/main/papers/HH_Het_MP_v21_appendix.pdf)<br>
 Replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)<br>
 Conditionally accepted at <b><i>American Economic Journal: Macroeconomics</i></b>
 
-[Intrahousehold Inequality and Savings in Retirement](https://github.com/minsuc/Econ103_LPS/raw/master/papers/Chang_Ko_June2026.pdf)<br> 
+[Intrahousehold Inequality and Savings in Retirement](https://github.com/minsuc/Econ103_LPS/raw/main/papers/Chang_Ko_June2026.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a><br>
 Previously under the title "Marital Transitions, Housing, and Long-Term Care in Old Age"<br>
 R&R at <b><i>Quantitative Economics</i></b>
@@ -52,7 +52,7 @@ R&R at <b><i>Quantitative Economics</i></b>
 
 ## Dormant Papers
 
-[Feasible Multivariate Density Estimation Using Random Compression](https://github.com/minsuc/Econ103_LPS/raw/master/papers/ChangSangrey_web.pdf)<br> 
+[Feasible Multivariate Density Estimation Using Random Compression](https://github.com/minsuc/Econ103_LPS/raw/main/papers/ChangSangrey_web.pdf)<br> 
 with <a href="https://sangrey.io/" style="color:#000000;">Paul Sangrey</a><br>
 (Previously circulated as "Bypassing the Curse of Dimensionality: Feasible Multivariate Density Estimation")<br>
 Reject and resubmit at <i>Royal Statistical Society: Series B</i> 
