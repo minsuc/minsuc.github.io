@@ -10,6 +10,12 @@ permalink: /research/
 
 ## Publications
 
+[On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/main/papers/HH_Het_MP_v21_paper.pdf)<br>
+with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
+[Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/main/papers/HH_Het_MP_v21_appendix.pdf)<br>
+Replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)<br>
+Accepted at <b><i>American Economic Journal: Macroeconomics</i></b>
+
 [When in Doubt, Tax More Progressively? Uncertainty and Progressive Income Taxation](https://github.com/minsuc/Econ103_LPS/raw/main/papers/OTUP.pdf)<br> 
 with <a href="https://sites.google.com/site/chunzanwu/" style="color:#000000;">Chunzan Wu</a><br>
 Accepted at <b><i>International Economic Review</i></b>
@@ -37,12 +43,6 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 <b><i>The Econometrics Journal</i></b>, 2015, 18 (3), pp. 307-346.
 
 ## Working Papers
-
-[On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity](https://github.com/minsuc/Econ103_LPS/raw/main/papers/HH_Het_MP_v21_paper.pdf)<br>
-with <a href="https://web.sas.upenn.edu/schorf/" style="color:#000000;">Frank Schorfheide</a><br>
-[Online Appendix](https://github.com/minsuc/Econ103_LPS/raw/main/papers/HH_Het_MP_v21_appendix.pdf)<br>
-Replication files (2024-02-15) via [Dropbox Link](https://www.dropbox.com/scl/fi/7af6n7y7r4d70zidlqau6/Replication_v2024-02-16.zip?rlkey=m6c61otzhipjzwdqw09nq484b&dl=0)<br>
-Conditionally accepted at <b><i>American Economic Journal: Macroeconomics</i></b>
 
 [Intrahousehold Inequality and Savings in Retirement](https://github.com/minsuc/Econ103_LPS/raw/main/papers/Chang_Ko_June2026.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a><br>
