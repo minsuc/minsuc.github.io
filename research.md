@@ -46,8 +46,12 @@ with <a href="https://sites.google.com/site/sokbae/" style="color:#000000;">Sokb
 
 [Intrahousehold Inequality and Savings in Retirement](https://github.com/minsuc/Econ103_LPS/raw/main/papers/Chang_Ko_June2026.pdf)<br> 
 with <a href="http://www.ko-ami.com/" style="color:#000000;">Ami Ko</a><br>
-Previously under the title "Marital Transitions, Housing, and Long-Term Care in Old Age"<br>
-R&R at <b><i>Quantitative Economics</i></b>
+Conditionally accepted at <b><i>Quantitative Economics</i></b>
+
+## Work in Progress
+
+[Optimal Innovation under Population Decline: Growth and Firm Dynamics]<br>
+with <a href="https://sites.google.com/view/toshimukoyama/home?authuser=0/" style="color:#000000;">Toshihiko Mukoyama</a><br>
 
 
 ## Dormant Papers
