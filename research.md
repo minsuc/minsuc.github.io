@@ -50,7 +50,7 @@ Conditionally accepted at <b><i>Quantitative Economics</i></b>
 
 ## Work in Progress
 
-[Optimal Innovation under Population Decline: Growth and Firm Dynamics]<br>
+Optimal Innovation under Population Decline: Growth and Firm Dynamics<br>
 with <a href="https://sites.google.com/view/toshimukoyama/home?authuser=0/" style="color:#000000;">Toshihiko Mukoyama</a><br>
 
 
